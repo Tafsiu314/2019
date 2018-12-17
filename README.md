@@ -3,12 +3,12 @@
 This is the source code for our website. If you have something to say, either [email us](mailto:tedx.gunnhs@gmail.com) or file an issue.
 
 ### Webmasters
-[Gautam Mittal](https://gmittal.github.io) and [Adnaan Sachidanandan](https://www.adnaan.co/)
+Austin Ho
 
 ### License
 The MIT License ([MIT](https://tldrlegal.com/license/mit-license))
 
-Copyright (c) 2018 TEDxGunnHighSchool
+Copyright (c) 2019 TEDxGunnHighSchool
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
